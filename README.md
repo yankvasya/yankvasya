@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a junior developer with a passion for computers, technology and the internet.
+I am a middle developer with a passion for computers, technology and the internet.
 
 I want to develop myself and I am ready to take on new challenges as a developer.
 
