@@ -4,7 +4,7 @@ I am a middle developer with a passion for computers, technology and the interne
 
 I want to develop myself and I am ready to take on new challenges as a developer.
 
-📫 yankvasya@gmail.com
+📫 yankvasya@gmail.com or [telegram: @yankvasya](https://t.me/yankvasya)
 
 Please contact me if you are interested!
 
