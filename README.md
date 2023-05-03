@@ -14,9 +14,7 @@ Please contact me if you are interested!
 
 [![Gosia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yankvasya&show_icons=true&theme=tokyonight)](https://github.com/yankvasya?tab=repositories)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@yankvasya&theme=dark&width=50&layout=compact)](https://wakatime.com/@yankvasya)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/b2a5225b-807a-4a52-9cbb-099157c23626.svg)](https://wakatime.com/@b2a5225b-807a-4a52-9cbb-099157c23626)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yankvasya&layout=compact&theme=tokyonight)](https://github.com/yankvasya?tab=repositories)
 
