@@ -16,5 +16,7 @@ Please contact me if you are interested!
 
 [![wakatime](https://wakatime.com/badge/user/b2a5225b-807a-4a52-9cbb-099157c23626.svg)](https://wakatime.com/@b2a5225b-807a-4a52-9cbb-099157c23626)
 
+![](https://komarev.com/ghpvc/?username=yankvasya&color=brightgreen)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yankvasya&layout=compact&theme=tokyonight)](https://github.com/yankvasya?tab=repositories)
 
