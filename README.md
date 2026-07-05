@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I'm a frontend developer
-
 📫 yankvasya@gmail.com or [telegram: @yankvasya](https://t.me/yankvasya)
 
 Please contact me if you are interested!
