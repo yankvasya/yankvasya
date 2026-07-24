@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [telegram: @yankvasya](https://t.me/yankvasya)
+[linkedin: @yankvasya](https://www.linkedin.com/in/yankvasya/)
 
 ## My stats :octocat:
 
