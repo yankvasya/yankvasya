@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-📫 yankvasya@gmail.com or [telegram: @yankvasya](https://t.me/yankvasya)
-
-Please contact me if you are interested!
+[telegram: @yankvasya](https://t.me/yankvasya)
 
 ## My stats :octocat:
 
