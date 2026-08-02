@@ -1,6 +1,6 @@
 # Hi, I'm Vasily 👋
 
-**Frontend Developer** with 4+ years of experience, 3 of them on a single large product — a multi-brand publisher platform (Clickadilla, MyBid, Onclicka) built on Vue. I take tasks from idea to production on my own and love building things that work well and look clean.
+**Frontend Developer** with 4+ years of experience, 3 of them working on a single large product — a multi-brand publisher platform (Clickadilla, MyBid, Onclicka) built on Vue. I take tasks from idea to production on my own and love building things that work well and look clean.
 
 📍 Nha Trang, Vietnam · 🌐 [yankvasya.dev](https://yankvasya.dev)
 
