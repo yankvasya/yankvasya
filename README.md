@@ -63,9 +63,11 @@ My personal landing page / CV — a minimal dev-style site with scroll animation
 
 [![codewars](https://www.codewars.com/users/yankvasya/badges/large)](https://www.codewars.com/users/yankvasya)
 
-[![yankvasya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yankvasya&show_icons=true&theme=tokyonight)](https://github.com/yankvasya?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/yankvasya?style=for-the-badge&logo=github&label=Followers&color=6e5494)](https://github.com/yankvasya?tab=followers)
+[![Stars](https://img.shields.io/github/stars/yankvasya?style=for-the-badge&logo=github&label=Stars&color=6e5494)](https://github.com/yankvasya?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyankvasya&query=public_repos&label=Repos&style=for-the-badge&logo=github&color=6e5494)](https://github.com/yankvasya?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yankvasya&layout=compact&theme=tokyonight)](https://github.com/yankvasya?tab=repositories)
+**Top languages** — Vue · TypeScript · JavaScript · CSS · HTML
 
 [![wakatime](https://wakatime.com/badge/user/b2a5225b-807a-4a52-9cbb-099157c23626.svg)](https://wakatime.com/@b2a5225b-807a-4a52-9cbb-099157c23626)
 
